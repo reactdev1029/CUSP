@@ -1,0 +1,10 @@
+.load-more {
+  &-spinner-container {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    right: 0;
+    bottom: 24px;
+    left: 0;
+  }
+}

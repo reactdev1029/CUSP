@@ -1,0 +1,17 @@
+/*Drawer Styles*/
+
+.drawer {
+  width: 250px;
+}
+
+.venues-drawer {
+  width: 450px;
+
+  @media screen and (max-width: 575px) {
+    width: 350px !important;
+  }
+}
+
+.full-drawer {
+  width: 100%;
+}
